@@ -1,7 +1,7 @@
 <!-- github.com/Baddysays profile README -->
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="baddysays - product engineer who ships" width="100%"/>
+  <img src="./assets/banner.png" alt="baddysays - product engineer who ships" width="100%"/>
 </p>
 
 <p align="center">
