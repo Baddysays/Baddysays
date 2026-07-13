@@ -1,10 +1,7 @@
-<!--
-  github.com/Baddysays � profile README
-  brand: ink + amber + sage � ships products, not demos
--->
+<!-- github.com/Baddysays profile README -->
 
 <p align="center">
-  <img src="assets/banner.svg" alt="baddysays � product engineer who ships" width="100%"/>
+  <img src="./assets/banner.svg" alt="baddysays - product engineer who ships" width="100%"/>
 </p>
 
 <p align="center">
@@ -17,72 +14,72 @@
 
 <br/>
 
-### ?????? � ? **baddysays**
-**Product engineer.** ????? ????, ???????? ????? ???????????? ???????: Android, ???????, ???????, ???. ?? ???-??????? �?? ?????� � ?????, APK, ?????????, ????.
+### Привет — я **baddysays**
+**Product engineer.** Делаю вещи, которыми можно пользоваться сегодня: Android, сервера, десктоп, веб. Не пет-проекты «на потом» — релиз, APK, инсталлер, демо.
 
-Hey � I'm **baddysays**. I ship products end-to-end: mobile, backend, desktop, web. Real releases. Real users. Clear craft.
+Hey — I'm **baddysays**. I ship products end-to-end: mobile, backend, desktop, web. Real releases. Real users. Clear craft.
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="440"/>
+  <img src="./assets/divider.svg" alt="" width="440"/>
 </p>
 
-## ??? ? ????? � What I ship
+## Что я строю · What I ship
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ?? [Saylat](https://github.com/Baddysays/Saylat)
-**??????? ??? ?????????? ?????????**  
-Personal-first Android + VPS: ?????? Light/Medium/Full, STRIPS, ??????-????. ????? ? ??????????? � ????? ???? ??? ?????.
+### [Saylat](https://github.com/Baddysays/Saylat)
+**Браузер для медленного интернета**  
+Personal-first Android + VPS: сжатие Light/Medium/Full, STRIPS, офлайн-ядро. Сайты и мессенджеры — когда сеть еле дышит.
 
 [![release](https://img.shields.io/github/v/release/Baddysays/Saylat?style=flat-square&color=E8A060&labelColor=12161C)](https://github.com/Baddysays/Saylat/releases)
 [![CI](https://img.shields.io/github/actions/workflow/status/Baddysays/Saylat/ci.yml?style=flat-square&label=CI&labelColor=12161C)](https://github.com/Baddysays/Saylat/actions)
 <br/>
-[`Kotlin � Python � Android`](https://github.com/Baddysays/Saylat) � [saylat.baddysays.ru](https://saylat.baddysays.ru)
+[Kotlin · Python · Android](https://github.com/Baddysays/Saylat) · [saylat.baddysays.ru](https://saylat.baddysays.ru)
 
 </td>
 <td width="50%" valign="top">
 
-### ?? [Etemenanki](https://github.com/Baddysays/Etemenanki)
-**AI-?????????? ??????????**  
-Windows-?????????? ?? Qt 6: PDF / DOCX / TXT ? ??????? ????? Ollama ??? OpenAI-compatible API. ????????. ??? ????????? ???????.
+### [Etemenanki](https://github.com/Baddysays/Etemenanki)
+**AI-переводчик документов**  
+Windows-приложение на Qt 6: PDF / DOCX / TXT → перевод через Ollama или OpenAI-compatible API. Локально. Без облачного рабства.
 
 [![release](https://img.shields.io/github/v/release/Baddysays/Etemenanki?style=flat-square&color=7EC8A3&labelColor=12161C)](https://github.com/Baddysays/Etemenanki/releases)
 [![CI](https://img.shields.io/github/actions/workflow/status/Baddysays/Etemenanki/ci.yml?style=flat-square&label=CI&labelColor=12161C)](https://github.com/Baddysays/Etemenanki/actions)
 <br/>
-[`C++ � Qt/QML � Python`](https://github.com/Baddysays/Etemenanki)
+[C++ · Qt/QML · Python](https://github.com/Baddysays/Etemenanki)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ?? [Foxik Dispatcher](https://github.com/Baddysays/foxik-dispatcher)
-**???????????? ???????**  
-React 19 + Vite 6: KPI ?????, ????????? ????????????, ?????? JSON, AI worklog. ????? ????.
+### [Foxik Dispatcher](https://github.com/Baddysays/foxik-dispatcher)
+**Операционный дашборд**  
+React 19 + Vite 6: KPI смены, аналитика наблюдателей, импорт JSON, AI worklog. Живое демо.
 
 [![demo](https://img.shields.io/badge/demo-foxik.baddysays.ru-E8A060?style=flat-square&labelColor=12161C)](https://foxik.baddysays.ru)
 <br/>
-[`React � Vite`](https://github.com/Baddysays/foxik-dispatcher) � [foxik.baddysays.ru](https://foxik.baddysays.ru)
+[React · Vite](https://github.com/Baddysays/foxik-dispatcher) · [foxik.baddysays.ru](https://foxik.baddysays.ru)
 
 </td>
 <td width="50%" valign="top">
 
-### ??? ? ??????? � How I work
-- **?? ???? ?? ??????** � CI, APK, setup.exe, docs
-- **??????????? ????????** � UX ??? ???????? constraint (2G, ??????, ????????? AI)
-- **?????? ownership** � ???? ???????, ?????? ????, ??? �??? ?? ??? ????�
+### Как я работаю · How I work
+- **От идеи до релиза** — CI, APK, setup.exe, docs
+- **Продуктовое мышление** — UX под реальный constraint (2G, офлайн, локальный AI)
+- **Чистый ownership** — один человек, полный цикл, без «это не моя зона»
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="440"/>
+  <img src="./assets/divider.svg" alt="" width="440"/>
 </p>
 
-## ???? � Stack
+## Стек · Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
@@ -98,7 +95,7 @@ React 19 + Vite 6: KPI ?????, ????????? ????????????, ?????? JSON, AI worklog. ?
 
 <br/>
 
-## ????? � Pulse
+## Цифры · Pulse
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Baddysays&show_icons=true&theme=transparent&hide_border=true&title_color=E8A060&icon_color=7EC8A3&text_color=C9D1D9&bg_color=00000000&ring_color=E8A060" alt="GitHub stats"/>
@@ -110,24 +107,24 @@ React 19 + Vite 6: KPI ?????, ????????? ????????????, ?????? JSON, AI worklog. ?
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="440"/>
+  <img src="./assets/divider.svg" alt="" width="440"/>
 </p>
 
-## ????? ???????? � Let's talk
+## Давай работать · Let's talk
 
-????? ???????, ??????? **??? ??????? ??????? ?? ??????** � ??????.  
+Нужен человек, который **сам доведёт продукт до релиза** — напиши.  
 Need someone who owns the full loop and ships? Reach out.
 
 <p align="center">
-  <a href="mailto:hello@baddysays.ru"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20%20hello%40baddysays.ru-12161C?style=for-the-badge&labelColor=E8A060&color=12161C" alt="Email"/></a>
+  <a href="mailto:hello@baddysays.ru"><img src="https://img.shields.io/badge/email-hello%40baddysays.ru-12161C?style=for-the-badge&labelColor=E8A060&color=12161C" alt="Email"/></a>
   &nbsp;
-  <a href="https://t.me/baddysays"><img src="https://img.shields.io/badge/%F0%9F%92%AC%20%20Telegram%20%40baddysays-12161C?style=for-the-badge&labelColor=7EC8A3&color=12161C" alt="Telegram"/></a>
+  <a href="https://t.me/baddysays"><img src="https://img.shields.io/badge/telegram-%40baddysays-12161C?style=for-the-badge&labelColor=7EC8A3&color=12161C" alt="Telegram"/></a>
   &nbsp;
-  <a href="https://baddysays.ru"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20baddysays.ru-12161C?style=for-the-badge&labelColor=6B8CFF&color=12161C" alt="Website"/></a>
+  <a href="https://baddysays.ru"><img src="https://img.shields.io/badge/web-baddysays.ru-12161C?style=for-the-badge&labelColor=6B8CFF&color=12161C" alt="Website"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>built with intent � maintained like a product � � baddysays</sub>
+  <sub>built with intent · maintained like a product · © baddysays</sub>
 </p>
