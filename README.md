@@ -1,91 +1,67 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D10&height=180&section=header&text=baddysays&fontSize=72&fontColor=E8A060&fontAlignY=35&desc=product%20engineer%20%C2%B7%20ships%20real%20things&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="baddysays"/>
-</div>
+<p align="center">
+  <img src="./assets/header.png" alt="baddysays — product engineer" width="100%" />
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E8A060&center=true&vCenter=true&width=640&height=45&lines=Product+engineer+who+ships;Android+%C2%B7+Desktop+%C2%B7+Web+%C2%B7+AI;Saylat+%C2%B7+Etemenanki+%C2%B7+Foxik;From+idea+to+release+%E2%80%94+solo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=E8A060&center=true&vCenter=true&width=680&height=48&lines=Product+engineer+who+ships;Saylat+%C2%B7+Etemenanki+%C2%B7+Foxik;Android+%2B+Desktop+%2B+Web+%2B+Local+AI;From+idea+%E2%86%92+release+%E2%80%94+solo" alt="typing" />
   </a>
-</div>
+</p>
 
-<br/>
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/baddysays.ru-0B0D10?style=for-the-badge&logo=googlechrome&logoColor=E8A060)](https://baddysays.ru)
-[![Email](https://img.shields.io/badge/hello@baddysays.ru-0B0D10?style=for-the-badge&logo=gmail&logoColor=7EC8A3)](mailto:hello@baddysays.ru)
-[![Telegram](https://img.shields.io/badge/@baddysays-0B0D10?style=for-the-badge&logo=telegram&logoColor=6B8CFF)](https://t.me/baddysays)
-
-</div>
+<p align="center">
+  <a href="https://baddysays.ru"><img src="https://img.shields.io/badge/Website-baddysays.ru-E8A060?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0B0D10" alt="web"/></a>
+  <a href="mailto:hello@baddysays.ru"><img src="https://img.shields.io/badge/Email-hello%40baddysays.ru-7EC8A3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0D10" alt="mail"/></a>
+  <a href="https://t.me/baddysays"><img src="https://img.shields.io/badge/Telegram-%40baddysays-6B8CFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0B0D10" alt="tg"/></a>
+</p>
 
 ---
 
-### Hey — I'm **baddysays**
+### About
 
-Product engineer from the trenches. I build things people can install, open, and use today — not demos that die in a folder.
+I ship products end-to-end — not slides, not half-repos.
 
-- 📱 **[Saylat](https://github.com/Baddysays/Saylat)** — browser for slow / 2G networks (Android + VPS)
-- 📜 **[Etemenanki](https://github.com/Baddysays/Etemenanki)** — local AI document translator (Qt + Ollama)
-- 📡 **[Foxik Dispatcher](https://github.com/Baddysays/foxik-dispatcher)** — ops dashboard (React 19 + Vite 6)
-- 🧠 Full loop ownership: idea → CI → APK / setup.exe → docs → users
-- 💬 Open to serious work — [hello@baddysays.ru](mailto:hello@baddysays.ru) · [Telegram](https://t.me/baddysays)
+- **Ownership** — idea → CI → release (APK / setup.exe) → docs → users
+- **Constraint-driven** — slow networks, offline, local AI
+- **Stack** — Kotlin / Android · Python · C++ / Qt · React
+- **Open to hire** for serious product work → [hello@baddysays.ru](mailto:hello@baddysays.ru)
 
-<br/>
+### Tech
 
-### Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,cpp,qt,react,vite,js,docker,linux,git,githubactions&perline=12" alt="tech stack" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,cpp,qt,react,vite,js,docker,linux,git,githubactions" alt="skills" />
-</div>
+### Products
 
-<br/>
+| | Project | What it is | Links |
+|:--:|:--|:--|:--|
+| 01 | **[Saylat](https://github.com/Baddysays/Saylat)** | Browser for 2G / slow nets — Android client + VPS compression | [release](https://github.com/Baddysays/Saylat/releases) · [site](https://saylat.baddysays.ru) |
+| 02 | **[Etemenanki](https://github.com/Baddysays/Etemenanki)** | Local AI document translator — Qt 6 + Ollama / OpenAI-compatible | [release](https://github.com/Baddysays/Etemenanki/releases) |
+| 03 | **[Foxik Dispatcher](https://github.com/Baddysays/foxik-dispatcher)** | Ops dashboard — shift KPI, analytics, AI worklog (React 19) | [live demo](https://foxik.baddysays.ru) |
 
-### Featured work
+<p align="center">
+  <img alt="Saylat release" src="https://img.shields.io/github/v/release/Baddysays/Saylat?style=flat-square&label=Saylat&color=E8A060&labelColor=0B0D10" />
+  <img alt="Etemenanki release" src="https://img.shields.io/github/v/release/Baddysays/Etemenanki?style=flat-square&label=Etemenanki&color=7EC8A3&labelColor=0B0D10" />
+  <img alt="Foxik demo" src="https://img.shields.io/badge/Foxik-live%20demo-6B8CFF?style=flat-square&labelColor=0B0D10" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/Baddysays/Saylat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baddysays&repo=Saylat&theme=tokyonight&hide_border=true&bg_color=0B0D10&title_color=E8A060&icon_color=7EC8A3&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/Baddysays/Etemenanki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baddysays&repo=Etemenanki&theme=tokyonight&hide_border=true&bg_color=0B0D10&title_color=E8A060&icon_color=7EC8A3&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/Baddysays/foxik-dispatcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baddysays&repo=foxik-dispatcher&theme=tokyonight&hide_border=true&bg_color=0B0D10&title_color=E8A060&icon_color=7EC8A3&text_color=C9D1D9" />
-  </a>
-</div>
+### Activity
 
-<br/>
-
-### Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Baddysays&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0D10&title_color=E8A060&icon_color=7EC8A3&text_color=C9D1D9&ring_color=E8A060" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baddysays&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0D10&title_color=E8A060&text_color=C9D1D9" alt="langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baddysays&theme=tokyonight&hide_border=true&background=0B0D10&ring=E8A060&fire=E8A060&currStreakLabel=7EC8A3" alt="streak" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Baddysays&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12" alt="trophies" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baddysays&theme=dark&hide_border=true&background=0B0D10&ring=E8A060&fire=E8A060&currStreakLabel=7EC8A3&sideLabels=C9D1D9&dates=8B95A3" height="160" alt="streak" />
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <strong>Need someone who owns the full loop and ships?</strong><br/>
+  <a href="mailto:hello@baddysays.ru">hello@baddysays.ru</a>
+  ·
+  <a href="https://t.me/baddysays">@baddysays</a>
+  ·
+  <a href="https://baddysays.ru">baddysays.ru</a>
+</p>
 
-### Let's build something that ships
-
-**Need an engineer who owns the full product loop?**  
-Mail · Telegram · Site — pick one, I answer.
-
-[![Email](https://img.shields.io/badge/hello@baddysays.ru-E8A060?style=for-the-badge&logo=gmail&logoColor=0B0D10)](mailto:hello@baddysays.ru)
-[![Telegram](https://img.shields.io/badge/@baddysays-7EC8A3?style=for-the-badge&logo=telegram&logoColor=0B0D10)](https://t.me/baddysays)
-[![Web](https://img.shields.io/badge/baddysays.ru-6B8CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://baddysays.ru)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D10&height=100&section=footer" width="100%" alt=""/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D10&height=90&section=footer" width="100%" alt="" />
+</p>
