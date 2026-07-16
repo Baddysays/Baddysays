@@ -11,6 +11,8 @@
 <p align="center">
   <a href="https://baddysays.ru"><img src="https://img.shields.io/badge/baddysays.ru-0B0D10?style=flat-square&logo=googlechrome&logoColor=E8A060" alt="web"/></a>
   &nbsp;
+  <a href="https://wernanmail.ru"><img src="https://img.shields.io/badge/wernanmail.ru-0B0D10?style=flat-square&logo=maildotru&logoColor=7EC8A3" alt="wernanmail"/></a>
+  &nbsp;
   <a href="mailto:hello@baddysays.ru"><img src="https://img.shields.io/badge/hello%40baddysays.ru-0B0D10?style=flat-square&logo=gmail&logoColor=7EC8A3" alt="mail"/></a>
   &nbsp;
   <a href="https://t.me/baddysays"><img src="https://img.shields.io/badge/%40baddysays-0B0D10?style=flat-square&logo=telegram&logoColor=6B8CFF" alt="tg"/></a>
@@ -23,16 +25,22 @@
 Делаю продукты целиком — от идеи до того, что можно поставить и открыть.
 
 - **Full ownership** — idea → CI → APK / setup.exe → docs → users
-- **Hard constraints** — 2G networks, offline, local AI
+- **Hard constraints** — 2G networks, offline, local AI, light RAM
 - **Hire me** for serious product work → [hello@baddysays.ru](mailto:hello@baddysays.ru)
 
 ### Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,cpp,qt,react,vite,js,docker,linux,git,githubactions&perline=12" alt="tech" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,cpp,qt,react,vite,js,go,docker,linux,git,githubactions&perline=13" alt="tech" />
 </p>
 
 ### Products
+
+**[Wernanmail](https://github.com/Baddysays/wernanmail)** — light self-hosted corporate mail  
+Go MTA · IMAP · webmail · admin · antispam · one Docker command · ~500 MB aim  
+[![repo](https://img.shields.io/badge/github-wernanmail-1f6f8b?style=flat-square&labelColor=12161C)](https://github.com/Baddysays/wernanmail)
+&nbsp;[site](https://wernanmail.ru)
+&nbsp;[webmail](https://mail.wernanmail.ru)
 
 **[Saylat](https://github.com/Baddysays/Saylat)** — browser for slow / 2G networks  
 Android + VPS compression · Light / Medium / Full · messengers through your own server  
