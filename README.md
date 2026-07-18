@@ -1,66 +1,66 @@
 <p align="center">
-  <img src="./assets/header.jpg" alt="baddysays — bad internet · own data" width="100%" />
+  <img src="./assets/header.png" alt="baddysays" width="100%" />
 </p>
 
 <p align="center">
-  <code>MSK · на связи · <a href="https://baddysays.ru">baddysays.ru</a></code>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E8A060&center=true&vCenter=true&width=560&height=40&lines=Product+engineer+who+ships;Idea+%E2%86%92+CI+%E2%86%92+release;Android+%C2%B7+Desktop+%C2%B7+Web+%C2%B7+AI" alt="typing" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://baddysays.ru"><img src="https://img.shields.io/badge/site-baddysays.ru-0c1018?style=flat-square&labelColor=121821&color=7eb8d4" alt="site"/></a>
-  <a href="mailto:hello@baddysays.ru"><img src="https://img.shields.io/badge/mail-hello%40baddysays.ru-0c1018?style=flat-square&labelColor=121821&color=3db896" alt="mail"/></a>
-  <a href="https://t.me/baddysays"><img src="https://img.shields.io/badge/telegram-%40baddysays-0c1018?style=flat-square&labelColor=121821&color=d6455a" alt="telegram"/></a>
-  <a href="https://sea.baddysays.ru"><img src="https://img.shields.io/badge/beaver%20sea-live-0c1018?style=flat-square&labelColor=121821&color=7a5ad8" alt="beaver sea"/></a>
+  <a href="https://baddysays.ru"><img src="https://img.shields.io/badge/baddysays.ru-0B0D10?style=flat-square&logo=googlechrome&logoColor=E8A060" alt="web"/></a>
+  &nbsp;
+  <a href="https://wernanmail.ru"><img src="https://img.shields.io/badge/wernanmail.ru-0B0D10?style=flat-square&logo=maildotru&logoColor=7EC8A3" alt="wernanmail"/></a>
+  &nbsp;
+  <a href="mailto:hello@baddysays.ru"><img src="https://img.shields.io/badge/hello%40baddysays.ru-0B0D10?style=flat-square&logo=gmail&logoColor=7EC8A3" alt="mail"/></a>
+  &nbsp;
+  <a href="https://t.me/baddysays"><img src="https://img.shields.io/badge/%40baddysays-0B0D10?style=flat-square&logo=telegram&logoColor=6B8CFF" alt="tg"/></a>
 </p>
 
-<p align="center">
-  <img src="./assets/divider.svg" alt="" width="440" />
-</p>
+---
 
 ### About
 
-Делаю то, чем потом пользуются — даже при плохом интернете и без чужого облака.
+Делаю продукты целиком — от идеи до того, что можно поставить и открыть.
 
-От задумки до запуска: интерфейс, сервер, выкладка. После запуска тоже на связи.
+- **Full ownership** — idea → CI → APK / setup.exe → docs → users
+- **Hard constraints** — 2G networks, offline, local AI, light RAM
+- **На связи** — [hello@baddysays.ru](mailto:hello@baddysays.ru) · [telegram](https://t.me/baddysays)
 
-<details>
-<summary><strong>EN</strong></summary>
-
-<br/>
-
-I build things people use — even on bad internet, without someone else’s cloud.
-
-From idea to launch: interface, server, deploy. After launch I stay reachable.
-</details>
-
-### Works
-
-| | | |
-| :--- | :--- | :--- |
-| **[Saylat](https://github.com/Baddysays/Saylat)** | browser for bad internet | [live](https://saylat.baddysays.ru) · [releases](https://github.com/Baddysays/Saylat/releases) |
-| **[Wernanmail](https://github.com/Baddysays/wernanmail)** | mail on your own server | [site](https://wernanmail.ru) · [repo](https://github.com/Baddysays/wernanmail) |
-| **[Etemenanki](https://github.com/Baddysays/Etemenanki)** | translation at home | [releases](https://github.com/Baddysays/Etemenanki/releases) |
-| **[Foxik](https://github.com/Baddysays/foxik-dispatcher)** | shift notes, fast | [live](https://foxik.baddysays.ru) |
-
-Сервер упрощает страницу · своя почта · локальная модель · мало экранов — так и задумано.
-
-### Stack
-
-`Kotlin · Compose · Go · Python · FastAPI · Qt · React · Vite · Docker · Mailcow · Prometheus`
-
-Self-hosted when it matters. Local AI when data shouldn’t leave.
-
-### Now
-
-```
-project · together · ongoing
-отвечаю днём по Москве
-```
+### Tech
 
 <p align="center">
-  <a href="mailto:hello@baddysays.ru">hello@baddysays.ru</a>
-  ·
-  <a href="https://t.me/baddysays">telegram</a>
-  ·
-  <a href="https://baddysays.ru/contact/">написать</a>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,cpp,qt,react,vite,js,go,docker,linux,git,githubactions&perline=13" alt="tech" />
+</p>
+
+### Products
+
+**[Wernanmail](https://github.com/Baddysays/wernanmail)** — light self-hosted corporate mail  
+Go MTA · IMAP · webmail · admin · antispam · one Docker command · ~500 MB aim  
+[![repo](https://img.shields.io/badge/github-wernanmail-1f6f8b?style=flat-square&labelColor=12161C)](https://github.com/Baddysays/wernanmail)
+&nbsp;[site](https://wernanmail.ru)
+&nbsp;[webmail](https://mail.wernanmail.ru)
+
+**[Saylat](https://github.com/Baddysays/Saylat)** — browser for slow / 2G networks  
+Android + VPS compression · Light / Medium / Full · messengers through your own server  
+[![release](https://img.shields.io/github/v/release/Baddysays/Saylat?style=flat-square&color=E8A060&labelColor=12161C)](https://github.com/Baddysays/Saylat/releases)
+&nbsp;[site](https://saylat.baddysays.ru)
+
+**[Etemenanki](https://github.com/Baddysays/Etemenanki)** — local AI document translator  
+Qt 6 desktop · PDF / DOCX / TXT · Ollama or OpenAI-compatible API  
+[![release](https://img.shields.io/github/v/release/Baddysays/Etemenanki?style=flat-square&color=7EC8A3&labelColor=12161C)](https://github.com/Baddysays/Etemenanki/releases)
+
+**[Foxik Dispatcher](https://github.com/Baddysays/foxik-dispatcher)** — ops dashboard  
+React 19 · shift KPI · analytics · AI worklog  
+[![demo](https://img.shields.io/badge/demo-live-6B8CFF?style=flat-square&labelColor=12161C)](https://foxik.baddysays.ru)
+
+---
+
+<p align="center">
+  <a href="mailto:hello@baddysays.ru"><img src="https://img.shields.io/badge/Email-hello%40baddysays.ru-E8A060?style=for-the-badge&logo=gmail&logoColor=0B0D10&labelColor=E8A060" alt="email"/></a>
+  &nbsp;
+  <a href="https://t.me/baddysays"><img src="https://img.shields.io/badge/Telegram-%40baddysays-7EC8A3?style=for-the-badge&logo=telegram&logoColor=0B0D10&labelColor=7EC8A3" alt="telegram"/></a>
+  &nbsp;
+  <a href="https://baddysays.ru"><img src="https://img.shields.io/badge/Site-baddysays.ru-6B8CFF?style=for-the-badge&logo=googlechrome&logoColor=0B0D10&labelColor=6B8CFF" alt="site"/></a>
 </p>
